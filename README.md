@@ -6,8 +6,10 @@ Un explorateur de fichiers simple développé en Python utilisant Tkinter. Ce pr
 ---
 
 ### Membres du groupe
-GBENOU Romaric
-HEDJI G. Abed
+1- GBENOU Romaric
+
+2- HEDJI G. Abed
+
 ## Table des matières
 
 1. [Installation](#installation)
@@ -64,13 +66,13 @@ HEDJI G. Abed
 ![favoris](screenshot4.png)
 
 ### 5. Menu contextuel (clic droit)
-[Menu](screenshot5.png)
+![Menu](screenshot5.png)
 
 ### 6. Message d’erreur
-[erreur](screenshot6.png)
+![erreur](screenshot6.png)
 
 ### 7. Dossiers et fichiers dans l'explorateur
-[Dossiers](screenshot7.png)
+![Dossiers](screenshot7.png)
 
 ---
 
