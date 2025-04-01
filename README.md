@@ -64,7 +64,7 @@ HEDJI G. Abed
 ![favoris](screenshot4.png)
 
 ### 5. Menu contextuel (clic droit)
-[Menu](images/screenshot5.png)
+[Menu](screenshot5.png)
 
 ### 6. Message d’erreur
 [erreur](screenshot6.png)
