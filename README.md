@@ -10,34 +10,13 @@ Un explorateur de fichiers simple développé en Python utilisant Tkinter. Ce pr
 
 2- HEDJI G. Abed
 
-## Table des matières
-
-1. [Installation](#installation)
-2. [Fonctionnalités](#fonctionnalités)
-3. [Screenshots](#screenshots)
-4. [Problèmes rencontrés et solutions](#problèmes-rencontrés-et-solutions)
-
 ---
 
-## Installation
+## Table des matières
 
-### Prérequis
-- Python 3.x
-- Tkinter (souvent inclus avec Python, sinon vous pouvez l'installer via `sudo apt-get install python3-tk` sur Ubuntu)
-  
-### Installation du projet
-1. Clonez ce repository :
-   ```bash
-   git clone https://github.com/votre-nom/utilisateur.git
-   ```
-2. Accédez au répertoire du projet :
-   ```bash
-   cd explorateur-de-fichiers
-   ```
-3. Exécutez le fichier Python :
-   ```bash
-   python main.py
-   ```
+1. [Fonctionnalités](#fonctionnalités)
+2. [Screenshots](#screenshots)
+3. [Problèmes rencontrés et solutions](#problèmes-rencontrés-et-solutions)
 
 ---
 
