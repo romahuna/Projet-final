@@ -10,6 +10,8 @@ Un explorateur de fichiers simple développé en Python utilisant Tkinter. Ce pr
 
 2- HEDJI G. Abed
 
+3- EGUAGIE Joshua
+
 ---
 
 ## Table des matières
