@@ -52,25 +52,25 @@ HEDJI G. Abed
 ## Screenshots
 
 ### 1. Interface principale de l'explorateur de fichiers
-![Interface principale](images/screenshot1.png)
+![Interface principale](screenshot1.png)
 
 ### 2. Fenêtre de recherche
-![Fenêtre de recherche](images/screenshot2.png)
+![Fenêtre de recherche](screenshot2.png)
 
 ### 3. Affichage des détails d'un fichier/dossier
-![Détails](images/screenshot3.png)
+![Détails](screenshot3.png)
 
 ### 4. Favoris
-![favoris](images/screenshot4.png)
+![favoris](screenshot4.png)
 
 ### 5. Menu contextuel (clic droit)
 [Menu](images/screenshot5.png)
 
 ### 6. Message d’erreur
-[erreur](images/screenshot6.png)
+[erreur](screenshot6.png)
 
 ### 7. Dossiers et fichiers dans l'explorateur
-[Dossiers](images/screenshot7.png)
+[Dossiers](screenshot7.png)
 
 ---
 
